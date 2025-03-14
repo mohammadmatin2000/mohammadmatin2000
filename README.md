@@ -1,8 +1,8 @@
-<h3 align="center">👋 Hi there! I'm Matin</h3>
+<h1 align="center">👋 Hi there! I'm Matin</h1>
 
-<h3 align="center">
+<h2 align="center">
   A 17-year-old Django Backend Developer who started programming at 15 years old. I have built several real-world projects so far, which you can see here. My goal is to become a valuable developer in the field.
-</h3>
+</h2>
 
 <div align="center">
   <a href="https://www.instagram.com/matinghorbanpor2020/">
@@ -18,11 +18,11 @@
   </a>
 </div>
 
-<h3 align="center">💬 Let's Connect!</h3>
+<h1 align="center">💬 Let's Connect!</h1>
 
-<p align="center">
+<h2 align="center">
   I love connecting with like-minded people, sharing knowledge, and learning from others. Feel free to reach out! I'm always open to discussions about tech, Django, or software development.
-</p>
+</h2>
 
 ## My favorite tools and technologies ⚙️
 <table>
