@@ -81,6 +81,12 @@
       </a>
       <br>Docker
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=pycharm">
+      </a>
+      <br>PyCharm 
+    </td>
   </tr>
 </table>
 
