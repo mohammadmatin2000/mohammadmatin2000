@@ -87,6 +87,18 @@
       </a>
       <br>PyCharm 
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=jquery ">
+      </a>
+      <br>jQuery 
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=vscode ">
+      </a>
+      <br>Vs-Code
+    </td>
   </tr>
 </table>
 
