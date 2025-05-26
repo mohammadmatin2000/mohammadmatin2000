@@ -101,6 +101,24 @@
       </a>
       <br>Vs-Code
     </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://skillicons.dev/icons?i=redis ">
+      </a>
+      <br>Redis
+    </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="65" height="65" alt="GitHub" />
+      </a>
+      <br>Nginx
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="65" height="65" alt="GitHub" />
+      </a>
+      <br>MySql
+    </td>
   </tr>
 </table>
 
